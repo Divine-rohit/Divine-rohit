@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Divine-rohit
+- 👀 I’m interested in front end 
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate on Landing page
